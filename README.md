@@ -1,5 +1,7 @@
 # 👋 Hey, ik ben Milan Dhondt
 
+![Profile views](https://komarev.com/ghpvc/?username=milandhondt&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/milandhondt?label=Volgers&style=social)
 ![Portfolio status](https://img.shields.io/badge/Portfolio-Under%20Construction-yellow)
 ![Student](https://img.shields.io/badge/Student-Full%20Stack%20Development-blue)
 
@@ -28,12 +30,7 @@ Momenteel werk ik aan mijn persoonlijk **portfolio** en verschillende projecten 
 
 ---
 
-## 🌱 GitHub Activiteit
+## 📈 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=milandhondt&theme=react-dark)
-
----
-
-## 📫 Contact
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/milan-dhondt/)
+![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milandhondt&show_icons=true&theme=radical)
+![Top talen](https://github-readme-stats.vercel.app/api/top-langs/?username=milandhondt&layout=compact&theme=radical)
