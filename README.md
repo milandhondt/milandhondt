@@ -28,12 +28,6 @@ Momenteel werk ik aan mijn persoonlijk **portfolio** en verschillende projecten 
 
 ---
 
-## 📈 GitHub Stats
-
-![Top talen](https://github-readme-stats.vercel.app/api/top-langs/?username=milandhondt&layout=compact&theme=radical)
-
----
-
 ## 🌱 GitHub Activiteit
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=milandhondt&theme=react-dark)
