@@ -1,7 +1,5 @@
 # 👋 Hey, ik ben Milan Dhondt
 
-![Profile views](https://komarev.com/ghpvc/?username=milandhondt&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/milandhondt?label=Volgers&style=social)
 ![Portfolio status](https://img.shields.io/badge/Portfolio-Under%20Construction-yellow)
 ![Student](https://img.shields.io/badge/Student-Full%20Stack%20Development-blue)
 
