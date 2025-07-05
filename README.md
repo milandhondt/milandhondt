@@ -1,6 +1,5 @@
 # 👋 Hey, ik ben Milan Dhondt
 
-![Portfolio status](https://img.shields.io/badge/Portfolio-Under%20Construction-yellow)
 ![Student](https://img.shields.io/badge/Student-Full%20Stack%20Development-blue)
 
 ## 💻 Over mij
