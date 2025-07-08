@@ -7,7 +7,7 @@
 Ik ben Milan, een gepassioneerde student **Full Stack Development** aan **HOGENT**.  
 Ik focus me op moderne webtechnologieën en bouw graag gebruiksvriendelijke, schaalbare toepassingen met React, Node.js en TypeScript.
 
-Momenteel werk ik aan mijn persoonlijk **portfolio** en verschillende projecten om mijn skills verder aan te scherpen.
+Momenteel werk ik aan een **webapplicatie** omtrent productivity. 
 
 ---
 
