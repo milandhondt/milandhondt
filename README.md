@@ -29,9 +29,4 @@ Momenteel werk ik aan een **webapplicatie** omtrent productivity.
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milandhondt&show_icons=true&theme=radical)
 ![Top talen](https://github-readme-stats.vercel.app/api/top-langs/?username=milandhondt&layout=compact&theme=radical)
