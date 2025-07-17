@@ -1,4 +1,4 @@
-# 👋 Hey, ik ben Milan Dhondt
+# 👋 Hoi, ik ben Milan Dhondt! :)
 
 ![Student](https://img.shields.io/badge/Student-Full%20Stack%20Development-blue)
 
@@ -7,7 +7,7 @@
 Ik ben Milan, een gepassioneerde student **Full Stack Development** aan **HOGENT**.  
 Ik focus me op moderne webtechnologieën en bouw graag gebruiksvriendelijke, schaalbare toepassingen met React, Node.js en TypeScript.
 
-Momenteel werk ik aan een **webapplicatie** omtrent productivity. 
+Momenteel werk ik aan een **webapplicatie** omtrent kledij en outfits. (Met o.a. React, Auth0 en Express) 
 
 ---
 
