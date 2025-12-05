@@ -28,5 +28,3 @@ Momenteel werk ik aan de nieuwe website van een studentenvereniging in **React**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?logo=chakraui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-![Top talen](https://github-readme-stats.vercel.app/api/top-langs/?username=milandhondt&layout=compact&theme=radical)
