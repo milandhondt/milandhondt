@@ -1,7 +1,5 @@
 # Hoi, ik ben Milan Dhondt! :)
 
-## Over mij
-
 Ik ben **Milan**, Full Stack Developer.  
 
 Ik focus me op moderne webtechnologieën en bouw graag gebruiksvriendelijke, schaalbare toepassingen met React, Node.js en TypeScript. Verder ga ik ook graag aan de slag met programmeertalen zoals Java en C# / .NET!
